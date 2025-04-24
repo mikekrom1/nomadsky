@@ -13,8 +13,7 @@ Many providers offer this for entire websites or for backend functions.
 |CloudWays by DigitalOcean| USA | ?|  14-60| ? | ?| https://www.cloudways.com/en/php-hosting.php | PHP|
 |StackHero| France | Yes | ?| ? | ?| https://www.stackhero.io/en-US/#services|  Node.js, PHP, Python, Ruby | 
 |Alibaba Cloud| China | ? | ? | ? |? | https://www.alibabacloud.com/help/en/sae/serverless-app-engine-classic | PHP, Java, Python| 
- 
 
 
 
-
+ [![Edit on GitHub](https://img.shields.io/badge/Edit_on_GitHub-blue?logo=github)](https://github.com/mikekrom1/nomadsky/edit/main/content/dataStorage.md)
