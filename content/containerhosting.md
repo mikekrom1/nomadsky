@@ -10,4 +10,4 @@ Although serveral providers have adopted their own implementation of kubernetes.
 
 include Upcloud, ScaleOps, Leaseweb, https://neonephos.org/, Stackit, Hetzner, ovhcloud, gridscale, fuga cloud, Scaleway, Exoscale
 
-github link
+[![Edit on GitHub](https://img.shields.io/badge/Edit_on_GitHub-blue?logo=github)](https://github.com/mikekrom1/nomadsky/edit/main/content/containerhosting.md)
