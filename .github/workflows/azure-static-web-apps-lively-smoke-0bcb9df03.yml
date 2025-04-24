@@ -19,6 +19,12 @@ jobs:
         with:
           submodules: true
           lfs: false
+      - name: Install Hugo
+        run: |
+          sudo apt-get update
+          sudo apt-get install hugo -y
+      - name: Build Hugo Site
+        run: hugo
       - name: Build And Deploy
         id: builddeploy
         uses: Azure/static-web-apps-deploy@v1
