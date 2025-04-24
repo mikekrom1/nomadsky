@@ -1,8 +1,8 @@
-baseURL = "https://lively-smoke-0bcb9df03.6.azurestaticapps.net"
-languageCode = "en-us"
-title = "My Cloud Learning Portal"
-themes = "Ananke" # You can choose a Hugo theme here, or create your own theme
-paginate = 10
-[params]
-  description = "Learn Cloud Architecture"
-  github = "https://github.com/mikekrom1/nomadsky"
+baseURL: "https://lively-smoke-0bcb9df03.6.azurestaticapps.net"
+languageCode: "en-us"
+title: "My Cloud Learning Portal"
+theme: "Ananke" # You can choose a Hugo theme here, or create your own theme
+paginate: 10
+params:
+  description: "Learn Cloud Architecture"
+  github: "https://github.com/mikekrom1/nomadsky"
