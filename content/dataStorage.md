@@ -1,3 +1,29 @@
+## Compiling code with no installation. 
+
+Several cloud providers will manage the runtime for your, you only need to upload your code. This is either an entire website or just a function.  
+
+
+
+| Cloud Provider| US Cloud ACT  | EU GDPR | Out of the box backup | Price in Euro | OpenSource | CO2 | Documentation | supported frameworks | 
+| ------------- | ------------- |------------- |------------- |------------- |------------- |------------- |------------- |------------- |
+| Microsoft Azure | Yes         | ~       | partly         | 3-70   | No | ? | https://learn.microsoft.com/en-us/azure/azure-functions
+
+https://learn.microsoft.com/en-us/azure/app-service/ | .NET, Java, Nodes.js ,Python, PowerShell, TypeScript, PHP| 
+|AWS|   | Yes | ~   | ?   | 3-40 | No | ? | https://docs.aws.amazon.com/lambda/
+https://aws.amazon.com/lightsail/| .NET, Java, Nodes.js ,Python, PowerShell, TypeScript, Go, Rust, Ruby|
+
+
+sddsfsdfsdfsd
+
+| First Header | Second Header |
+| ------------- | ------------- |
+| Content Cell | Content Cell |
+| Content Cell | Content Cell |
+
+
+Cloudways	
+
+
 # Cloud Hosting of Data: Finding the Right Fit
 
 Choosing how to host your data in the cloud is a foundational decision — it affects everything from performance and scalability to how easily your team can access and analyze that data.
