@@ -1,7 +1,7 @@
 baseURL: "https://lively-smoke-0bcb9df03.6.azurestaticapps.net"
 languageCode: "en-us"
-title: "My Cloud Learning Portal"
+title: "Build Anywhere, Move Everywhere"
 theme: "ananke" # You can choose a Hugo theme here, or create your own theme
 params:
-  description: "Learn Cloud Architecture"
+  description: "Your Cloud destination guidebook"
   github: "https://github.com/mikekrom1/nomadsky"
