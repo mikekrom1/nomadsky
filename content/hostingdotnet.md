@@ -5,16 +5,16 @@ So you can choose the setup that best fit your needs for control, scalability, a
 
 ### Click and run (Runtime)
 
-| Supported languages| Cloud Provider | Headquarter | Out of the box backup | Price in Euro (approx.) | OpenSource | CO₂ Emission     | Documentation                                             |
+|  Cloud Provider | Headquarter | Supported languages| Out of the box backup | Price in Euro (approx.) | OpenSource | CO₂ Emission     | Documentation                                             |
 |--------------------|----------------|-------------|-----------------------|-------------------------|------------|---------------------|-----------------------------------------------------------|
-|.NET, Java, Nodes.js ,Python, PowerShell, TypeScript, PHP | Microsoft Azure | USA         | Yes                   | €100 - €200/month       | No         | ?    | [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/) |
-| .NET, Java, Nodes.js ,Python, PowerShell, TypeScript, Go, Rust, Ruby | AWS             | USA         | Yes              | €120 - €220/month       | No         | ?    | [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/) |
-|.NET, Java, Python, PHP, Nodes.js , Go, Ruby | Google Cloud    | USA         | Yes              | €100 - €180/month       | No         | ?    | [Google App Engine](https://cloud.google.com/appengine/docs) |
+| Microsoft Azure | USA         | .NET, Java, Nodes.js ,Python, PowerShell, TypeScript, PHP | Yes                   | €100 - €200/month       | No         | ?    | [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/) |
+|  AWS             | USA     |   .NET, Java, Nodes.js ,Python, PowerShell, TypeScript, Go, Rust, Ruby  | Yes              | €120 - €220/month       | No         | ?    | [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/) |
+| Google Cloud    | USA     |   .NET, Java, Python, PHP, Nodes.js , Go, Ruby  | Yes              | €100 - €180/month       | No         | ?    | [Google App Engine](https://cloud.google.com/appengine/docs) |
 | ?| NodeChef        | USA (Global)| Yes                   | €50 - €90/month         | No         | ?       | [NodeChef .NET Hosting](https://www.nodechef.com/dotnet-hosting) |
 |? | OVHcloud        | France      | ?              | €40 - €70/month         | No         | ? | [OVHcloud Managed Hosting](https://www.ovhcloud.com/en/web-hosting/) |
 | ?|Platform.sh     | France      | Yes                   | Contact for pricing     | No         | ?       | [Platform.sh .NET](https://platform.sh/docs/languages/dotnetcore/) |
-|PHP |Cloudways   | Malta       | Yes                   | €50 - €100/month        | No         | ?  | [Cloudways Managed Hosting](https://www.cloudways.com/en/) |
-|Node.js, PHP, Python, Ruby | Stackhero   | France      | Yes                   | €15 - €90/month         | No         | ?      | [Stackhero Managed Services](https://www.stackhero.io/en/) |
+|Cloudways   | Malta       | PHP | Yes                   | €50 - €100/month        | No         | ?  | [Cloudways Managed Hosting](https://www.cloudways.com/en/) |
+| Stackhero   | France    | Node.js, PHP, Python, Ruby   | Yes                   | €15 - €90/month         | No         | ?      | [Stackhero Managed Services](https://www.stackhero.io/en/) |
 
 
 ### Single Docker Container
