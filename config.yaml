@@ -6,3 +6,4 @@ contentDir: "content"
 params:
   description: "Your Cloud destination guidebook"
   github: "https://github.com/mikekrom1/nomadsky"
+  maxPagesInMenu: 10 
