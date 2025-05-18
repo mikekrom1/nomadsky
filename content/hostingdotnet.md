@@ -6,21 +6,28 @@ so you can choose the setup that best fits your needs for control, scalability, 
 
 ### VM
 
-| Cloud Provider    |   Headquarter | Out of the box backup | Price in Euro | OpenSource | Hypervisor |CO2 | Documentation |  
-| -------------     | ------------- |-------------          |------------- |-------------|------------|-----|------------- |
-| Microsoft Azure   | USA           | Yes                    |20-240       | No          |  Hyper-V   | ?   | https://learn.microsoft.com/en-us/azure/aks/ |  
-| AWS               | USA           | yes                    |20-240       | no          | ?          | ?   | https://docs.aws.amazon.com/eks/|
-| GCP               | USA           | yes                    |20-240       | no          | ?          | ?    |  https://cloud.google.com/kubernetes-engine/ |   
-| Upcloud           |               |                        |              |             | ?         |      | | 
-| ScaleOps          |               |                        |               |           |             |      | | 
-| Leaseweb          | Netherlands   |                         |             |             |           |       || 
-|Fuga Cloud         |                |                         |              |          |              |      ||
+
+| Cloud Provider    | Headquarter (legal) | Out-of-the-box Backup | Price in Euro (2-core VM) | OpenSource | Hypervisor | CO₂ Emissions (kg CO₂e/hour) | Documentation |
+|------------------|-------------         |-----------------------|---------------------------|------------|------------|------------------------------|---------------|
+| Microsoft Azure  | USA                  | Yes                   | €29.95–€216.00/month      | No         | Hyper-V    | Varies by region and usage   | [Azure AKS](https://learn.microsoft.com/en-us/azure/aks/) |
+| AWS              | USA                  | Yes                   | €29.95–€216.00/month      | No         | Xen/KVM    | 0.0093–0.0142                | [AWS EKS](https://docs.aws.amazon.com/eks/) |
+| GCP              | USA                  | Yes                   | €29.95–€216.00/month      | No         | KVM        | Varies by region and usage   | [GCP GKE](https://cloud.google.com/kubernetes-engine/) |
+| UpCloud          | Finland              | Optional              | €18–€35/month             | No         | KVM        | Not publicly disclosed       | [UpCloud Resources](https://upcloud.com/resources/) |
+| Leaseweb         | Netherlands          | Yes                   | €26,02/month              | No         | VMware     | Not publicly disclosed       | [Leaseweb Backup](https://www.leaseweb.com/en/products-services/back-up) |
+| Fuga Cloud       | Netherlands          | Optional              | €29.95–€216.00/month      | No         | KVM        | Not publicly disclosed       | [Fuga Cloud](https://fuga.cloud/) |
+| Hetzner        | Germany                | Optional              | €4.15/month               | No         | KVM        | Not disclosed | https://www.hetzner.com/cloud |
+| OVHcloud       | France                 | Optional              | €29.34/month              | No         | KVM        | Not disclosed | https://www.ovhcloud.com/en-ie/public-cloud/prices/ |
+| Gcore          | Luxembourg             | Optional              | €30.02/month              | No         | KVM        | Not disclosed | https://gcore.com/pricing/cloud |
+| EuroVPS        | Netherlands            | Optional              | €36/month                 | No         | KVM        | Not disclosed | https://www.eurovps.com/cloud-servers |
+| LifeinCloud    | Italy                  | Yes                   | €17/month                 | No         | KVM        | Not disclosed | https://lifeincloud.com/products/virtual-machines/cloud-servers/ |
+| IONOS          | Germany                | Optional              | ?                         | No         | VMware     | Not disclosed | https://cloud.ionos.co.uk/prices |
+| Exoscale | Switzerland                  | Optional              | €17–€36/month             | No         | KVM        | Not disclosed | https://www.exoscale.com/pricing/ |
+| STACKIT |  Germany                     | Optional               | Pricing varies             | No        | KVM        | Not disclosed | https://www.stackit.de/en/pricing/cloud-services/ |
+| gridscale | Germany | Optional | Pricing varies | No | KVM | Not disclosed | https://gridscale.io/en/pricing/ |
+| Neonephos | Netherlands | Optional | Pricing varies | No | KVM | Not disclosed | https://neonephos.org/ |
 
 
-
-
-include Upcloud, ScaleOps, Leaseweb, https://neonephos.org/, Stackit, Hetzner, ovhcloud, gridscale, fuga cloud, Scaleway, Exoscale
-
+### AKS
 
 
 
