@@ -1,4 +1,4 @@
-### Choose your platform for hosting your application 
+# Choose your platform for hosting your application 
 
 We have created a list of cloud providers. 
 Choose your level of complexity from SaaS, PaaS to SaaS. 
