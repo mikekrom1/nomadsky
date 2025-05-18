@@ -1,9 +1,9 @@
-# Hosting Options for databases like PostgreSQL, MySQL, SQLite, MSSQL, MongoDB, Redis, MariaDB
+### Hosting Options for databases like PostgreSQL, MySQL, SQLite, MSSQL, MongoDB, Redis, MariaDB
 
 This page provides a clear overview of where and how you can host your database. From fully managed stacks to containers and virtual machines, we list the most common providers and hosting types. 
 So you can choose the setup that best fit your needs for control, scalability, and ease of management.
 
-## Fully managed database, Click and go
+### Fully managed database, Click and go
 
 
 | Cloud Provider     | Headquarter   | Supported Databases                                 | Price in Euro (approx.) | OpenSource | CO₂ Emission     | Documentation |
@@ -25,7 +25,7 @@ So you can choose the setup that best fit your needs for control, scalability, a
 
 
 
-## Database container images:
+### Database container images:
 You can also run your own database in a container, keep in mind the database need to run on persistance storage
 
 | Database      | Docker Image Link                                      | Open Source | License Required |
@@ -38,7 +38,7 @@ You can also run your own database in a container, keep in mind the database nee
 | Redis         | [redis](https://hub.docker.com/_/redis)                |  Yes       |  BSD 3-Clause |
 | MariaDB       | [mariadb](https://hub.docker.com/_/mariadb)            |  Yes       |  GPLv2 |
 
-## Single Docker Container hosters:
+### Single Docker Container hosters:
 
 | Cloud Provider    | Headquarter  | Persistent Storage | Out-of-the-box Backup | Price in Euro (approx.)          | OpenSource | CO₂ Emission        | Documentation                                                        |
 |------------------|--------------|--------------------|-----------------------|----------------------------------|------------|---------------------|----------------------------------------------------------------------|
@@ -76,7 +76,7 @@ You can also run your own database in a container, keep in mind the database nee
 | **Leafcloud**        | Netherlands | Yes (Block Storage)         | ?              | €80/month                     |  No        | ?      | Heat recycling powered | [Leafcloud Kubernetes](https://leaf.cloud/products/kubernetes/) |
 
 
-#VM
+### VM
 
 
 | Cloud Provider    | Headquarter        | Out-of-the-box Backup | Price in Euro (2-core VM) | OpenSource | Hypervisor | CO₂ Emissions (kg CO₂e/hour) | Documentation |
