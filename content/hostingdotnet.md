@@ -29,7 +29,25 @@ so you can choose the setup that best fits your needs for control, scalability, 
 
 ### AKS
 
+| Cloud Provider    | Headquarter | Out-of-the-box Backup | Price in Euro (2-node cluster) | OpenSource | Kubernetes Version | CO₂ Emissions         | Documentation |
+|------------------|-------------|-----------------------|-------------------------------|------------|--------------------|-----------------------|---------------|
+| Microsoft Azure  | USA         | Yes                   | ~€160–€200/month              | No         | AKS                | Varies by region      | [AKS Docs](https://learn.microsoft.com/en-us/azure/aks/) |
+| AWS              | USA         | Optional              | ~€200–€250/month              | Yes        | EKS                | Varies by region      | [EKS Docs](https://docs.aws.amazon.com/eks/) |
+| GCP              | USA         | Optional              | ~€150–€220/month              | Yes        | GKE                | Varies by region      | [GKE Docs](https://cloud.google.com/kubernetes-engine/) |
+| IONOS            | Germany     | Optional              | ~€60–€80/month                | Yes        | CNCF Certified     | 100% renewable energy | [IONOS Kubernetes](https://cloud.ionos.co.uk/managed/kubernetes) |
+| Gcore            | Luxembourg  | Optional              | ~€70–€80/month                | Yes        | CNCF Certified     | Not disclosed         | [Gcore Kubernetes](https://gcore.com/cloud/managed-kubernetes) |
+| Cyso Cloud       | Netherlands | Optional              | ~€75.98/month                 | Yes        | CNCF Certified     | Not disclosed         | [Cyso Kubernetes](https://cyso.cloud/managed-kubernetes/) |
+| PlusServer       | Germany     | Optional              | ~€100–€120/month              | Yes        | CNCF Certified     | Not disclosed         | [PlusServer Kubernetes](https://www.plusserver.com/en/product/managed-kubernetes/) |
+| OVHcloud         | France      | Optional              | ~€55–€73/month                | Yes        | CNCF Certified     | High sustainability   | [OVHcloud Pricing](https://www.ovhcloud.com/en/public-cloud/prices/) |
+| Exoscale         | Switzerland | Optional              | ~€136/month                   | Yes        | CNCF Certified     | Not disclosed         | [Exoscale Kubernetes](https://www.exoscale.com/pricing/) |
+| Infomaniak       | Switzerland | Optional              | ~€55/month                    | Yes        | CNCF Certified     | Not disclosed         | [Infomaniak Kubernetes](https://zifeo.com/articles/230617-low-cost-k8s) |
+| ASERGO           | Denmark     | Optional              | Contact for pricing           | Yes        | CNCF Certified     | Not disclosed         | [ASERGO Kubernetes](https://asergo.com/kubernetes/kubernetes-cluster-pricing) |
+| ScaleUp Tech     | Germany     | Optional              | Contact for pricing           | Yes        | CNCF Certified     | Sustainable data centers | [ScaleUp Kubernetes](https://www.scaleuptech.com/en/cloud-hosting/managed-kubernetes/) |
+| Leafcloud        | Netherlands | Optional              | €80/month                     | Yes        | CNCF Certified     | Heat recycling powered | [Leafcloud Kubernetes](https://leaf.cloud/products/kubernetes/) |
+| ScaleOps     | Israel      | N/A                   | €230–€250/month               | N/A        | N/A                | N/A                   | [ScaleOps Docs](https://scaleops.com/) |
 
+
+## Runtime
 
 
 [![Edit on GitHub](https://img.shields.io/badge/Edit_on_GitHub-blue?logo=github)](https://github.com/mikekrom1/nomadsky/edit/main/content/hostingdotnet.md)
