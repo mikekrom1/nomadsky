@@ -1,10 +1,7 @@
-Choose your platform for hosting your application in production 
+### Choose your platform for hosting your application 
 
-### Virtualization level
-Do you go for a VM, container or web app?  
+We have created a list of cloud providers. 
+Choose your level of complexity from SaaS, PaaS to SaaS. 
+We offer a list of cloud providers for hosting code and databases. 
 
-### Running code and storing data 
-This website lists the different cloud solutions for hosting your new application.    
 
-### Code virtualization & Data virtualization
-![Alt text](../images/combinedpicture.png)
