@@ -1,9 +1,9 @@
-# Hosting Options for .NET, PHP,JAVA, Node.JS, Python, Rust, Ruby Applications
+### Hosting Options for .NET, PHP,JAVA, Node.JS, Python, Rust, Ruby Applications
 
 This page provides a clear overview of where and how you can host your application. From fully managed stacks to containers and virtual machines, we list the most common providers and hosting types. 
 So you can choose the setup that best fit your needs for control, scalability, and ease of management.
 
-## Click and run (Runtime)
+### Click and run (Runtime)
 
 | Supported languages| Cloud Provider | Headquarter | Out of the box backup | Price in Euro (approx.) | OpenSource | CO₂ Emission     | Documentation                                             |
 |--------------------|----------------|-------------|-----------------------|-------------------------|------------|---------------------|-----------------------------------------------------------|
@@ -17,7 +17,7 @@ So you can choose the setup that best fit your needs for control, scalability, a
 |Node.js, PHP, Python, Ruby | Stackhero   | France      | Yes                   | €15 - €90/month         | No         | ?      | [Stackhero Managed Services](https://www.stackhero.io/en/) |
 
 
-## Single Docker Container
+### Single Docker Container
 
 | Cloud Provider    | Headquarter  | Out of the box backup | Price in Euro (approx.)          | OpenSource | CO₂ Emission        | Documentation                                                        |
 |------------------|--------------|-----------------------|---------------------------------|------------|----------------------|----------------------------------------------------------------------|
@@ -36,7 +36,7 @@ So you can choose the setup that best fit your needs for control, scalability, a
 | Stackhero      | France        | Yes                   | ~€15 - €50/month                | No         | ?       | [Stackhero Docs](https://docs.stackhero.io/)                         |
 | NeoNephos     | Germany       | ?              | ~€20 - €60/month                | No         | ?        | [NeoNephos Docs](https://neonephos.org/docs/)                        |
 
-### managed Kubernetes platform
+### Managed Kubernetes platform
 
 | Cloud Provider    | Headquarter | Out-of-the-box Backup | Price in Euro (2-node cluster) | OpenSource | Kubernetes Version | CO₂ Emissions         | Documentation |
 |------------------|-------------|-----------------------|-------------------------------|------------|--------------------|-----------------------|---------------|
