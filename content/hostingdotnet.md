@@ -47,7 +47,18 @@ so you can choose the setup that best fits your needs for control, scalability, 
 | ScaleOps     | Israel      | N/A                   | €230–€250/month               | N/A        | N/A                | N/A                   | [ScaleOps Docs](https://scaleops.com/) |
 
 
-## Runtime
+## Runtime (no container)
+
+| Cloud Provider | Headquarter | Out of the box backup | Price in Euro (approx.) | OpenSource | CO₂ Emission*       | Documentation                                             |
+|----------------|-------------|-----------------------|-------------------------|------------|---------------------|-----------------------------------------------------------|
+| Microsoft Azure | USA         | Yes                   | €100 - €200/month       | No         | Varies by region    | [Azure App Service](https://learn.microsoft.com/en-us/azure/app-service/) |
+| AWS             | USA         | Optional              | €120 - €220/month       | No         | Varies by region    | [AWS Elastic Beanstalk](https://docs.aws.amazon.com/elasticbeanstalk/) |
+| Google Cloud    | USA         | Optional              | €100 - €180/month       | No         | Varies by region    | [Google App Engine](https://cloud.google.com/appengine/docs) |
+| NodeChef        | USA (Global)| Yes                   | €50 - €90/month         | No         | Not disclosed       | [NodeChef .NET Hosting](https://www.nodechef.com/dotnet-hosting) |
+| OVHcloud        | France      | Optional              | €40 - €70/month         | No         | High sustainability | [OVHcloud Managed Hosting](https://www.ovhcloud.com/en/web-hosting/) |
+| Platform.sh     | France      | Yes                   | Contact for pricing     | No         | Not disclosed       | [Platform.sh .NET](https://platform.sh/docs/languages/dotnetcore/) |
+| Cloudways   | Malta       | Yes                   | €50 - €100/month        | No         | Varies by provider  | [Cloudways Managed Hosting](https://www.cloudways.com/en/) |
+| Stackhero   | France      | Yes                   | €15 - €90/month         | No         | 100% renewable      | [Stackhero Managed Services](https://www.stackhero.io/en/) |
 
 
 [![Edit on GitHub](https://img.shields.io/badge/Edit_on_GitHub-blue?logo=github)](https://github.com/mikekrom1/nomadsky/edit/main/content/hostingdotnet.md)
