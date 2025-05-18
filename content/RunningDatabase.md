@@ -28,8 +28,8 @@ So you can choose the setup that best fit your needs for control, scalability, a
 ## Database container images:
 You can also run your own database in a container, keep in mind the database need to run on persistance storage
 
-| Database      | Docker Image Link                                      | Open Source | License Required | Notes |
-|---------------|--------------------------------------------------------|-------------|------------------|-------|
+| Database      | Docker Image Link                                      | Open Source | License Required |
+|---------------|--------------------------------------------------------|-------------|------------------|
 | PostgreSQL    | [postgres](https://hub.docker.com/_/postgres)          |  Yes       |  PostgreSQL License (permissive) |
 | MySQL         | [mysql](https://hub.docker.com/_/mysql)                |  Yes       |  GPLv2 – commercial license available for proprietary use |
 | SQLite        | [nouchka/sqlite3](https://hub.docker.com/r/nouchka/sqlite3) |  Yes  |  Public domain (sqlite.org) |
